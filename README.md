@@ -3,7 +3,7 @@
 first project's result 
 
 
-![image](https://github.com/user-attachments/assets/d70e84cd-1aa5-4171-99cc-aa3a0b96ae25)
+![image](https://github.com/user-attachments/assets/76c48fd0-8d0d-4b23-86eb-47d361f7f40e)
 
 
 ![image](https://github.com/user-attachments/assets/fabb5b8f-ca20-4d6b-a130-759d312c6880)
