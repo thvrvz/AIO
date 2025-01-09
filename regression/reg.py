@@ -33,5 +33,5 @@ plt.plot(X_test, y_test_prd, color='black', linewidth=2)
 plt.show()
 
 
-mvmcy = np.array([[6.8]])
+mvmcy = np.array([[6.9]])
 output = reg_linear.predict(mvmcy)
