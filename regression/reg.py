@@ -16,7 +16,7 @@ plt.subplots(figsize=(9,9))
 
 sns.heatmap(dataset.corr(),annot=True)
 x = dataset.drop("out1", axis=1)
-x = x.drop("fuelcomb", axis=1)
+x = x.drop("cylandr", axis=1)
 x = x.drop("engine", axis=1)
 y = dataset.out1
 
@@ -33,5 +33,5 @@ plt.plot(X_test, y_test_prd, color='black', linewidth=2)
 plt.show()
 
 
-mvmcy = np.array([[4]])
-output = reg_linear.predict(mvmcy)
+mvmfu = np.array([[6.8]])
+output = reg_linear.predict(mvmfu)
