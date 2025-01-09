@@ -16,8 +16,8 @@ plt.subplots(figsize=(9,9))
 
 sns.heatmap(dataset.corr(),annot=True)
 x = dataset.drop("out1", axis=1)
-x = x.drop("engine", axis=1)
 x = x.drop("cylandr", axis=1)
+x = x.drop("engine", axis=1)
 y = dataset.out1
 
 X_train,X_test,y_train,y_test = train_test_split(x, y, test_size=0.2)
