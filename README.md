@@ -26,7 +26,8 @@ fourth project's result
 
 ![image](https://github.com/user-attachments/assets/bd264cd2-4a61-4996-b051-4f3ef7aedde8)
 
-![image](https://github.com/user-attachments/assets/4c002854-6018-42ed-ab6b-bf9a96b6218d)
+![image](https://github.com/user-attachments/assets/82498890-b9eb-4fa6-8a1a-4f9279936be8)
+
 
 
 
